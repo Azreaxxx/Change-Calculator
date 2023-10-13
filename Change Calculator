@@ -1,1 +1,9 @@
+ Create a new Python script (Python Shell -> File -> New File) and save it as “WK1_Q2.py”
+in the ‘WK1HW’ folder. Then, write the complete Python code for above example (making
+change) to get the following output when you assign 67 for amount variable. Remember the
+// operator will truncate the decimal places from the division operation
 
+Quarters 2
+Dimes 1
+Nickels 1
+Pennies 1
